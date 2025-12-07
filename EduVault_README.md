@@ -1,6 +1,6 @@
-# 🎓 NEXUS: Intelligent Student Management System
+# 🎓 Edu Vault: Intelligent Student Management System
 
-**Nexus** is a terminal-based Student Database Management System written in C++. It goes beyond simple data storage by automatically analyzing student performance to assign badges and predict suitable AI career paths.
+**Edu Vault** is a terminal-based Student Database Management System written in C++. It goes beyond simple data storage by automatically analyzing student performance to assign badges and predict suitable AI career paths.
 
 ## 🚀 Key Features
 
